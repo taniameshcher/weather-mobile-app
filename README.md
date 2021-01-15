@@ -1,2 +1,3 @@
 # weather-mobile-app
-Application for displaying weather data
+Application for displaying weather data for mobile devices.
+
